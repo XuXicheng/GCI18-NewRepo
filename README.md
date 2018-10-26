@@ -1,6 +1,6 @@
 # GCI18-NewRepo
 # How to use
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is actually an empty repository which is still under test currently.
 
 # How to contribute
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Provide any suggestions by adding a pull request!
